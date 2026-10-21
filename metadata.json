@@ -1,0 +1,6 @@
+{
+  "name": "Kanu G. Agabi & Associates - File Inventory System",
+  "description": "Local network Case File Inventory and Tracking System for Kanu G. Agabi & Associates legal chambers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
